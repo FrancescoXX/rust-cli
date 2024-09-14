@@ -1,0 +1,9 @@
+Yo, JavaScript, you’re sloppy, a mess in disguise,
+Weak types and bugs, yeah, I see through your lies,
+I’m Rust, no mercy, I’m here to slay,
+You’re slow on the block, I’m taking your place.
+
+Concurrency beast, I don’t break, I don’t bend,
+While your callbacks choke, I race to the end,
+Memory leaks? Nah, I shut that down,
+You’re the past, JS, I’m the new king crowned.
